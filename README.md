@@ -1,9 +1,7 @@
 # ⚡ Welcome to my Sandbox
 
-<!-- هدر انیمیشنی نئونی با افکت ستاره‌های چشمک‌زن -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,20,30&height=180&section=header&text=AMIR%20/%20WORKSPACE&fontSize=40&animation=twinkling&fontAlignY=45" width="100%" />
-</p>
+<!-- هدر انیمیشنی نئونی با فرمت بومی مارک‌داون جهت لود فوق‌سریع -->
+![AMIR / WORKSPACE](https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,20,30&height=180&section=header&text=AMIR%20/%20WORKSPACE&fontSize=40&animation=twinkling&fontAlignY=45)
 
 <!-- افکت تایپ‌رایتر زنده با نشانگر چشمک‌زن ماتریکسی -->
 <p align="center">
