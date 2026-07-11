@@ -15,3 +15,37 @@
 ---
 
 ### 🛠️ Current Factory Stack
+
+🧠 Languages     │  PHP  •  JavaScript  •  Dart  •  SQL  •  Bash
+🚀 Ecosystems    │  Laravel  •  Livewire  •  Filament  •  Flutter
+🛢️ Storage       │  MySQL  •  SQLite  •  Redis
+⚙️ DevOps        │  Linux  •  Git  •  Docker  •  CI/CD Automation
+
+
+<!-- لوگوهای متحرک با افکت هاور و درخشش نئونی هنگام حرکت ماوس -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,flutter,mysql,linux,git,docker,bash&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📊 System Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dj2amir&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj2amir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dj2amir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+</p>
+
+---
+
+### 📡 Active Signals
+<p align="center">
+  <img src="https://img.shields.io/github/followers/dj2amir?label=Followers&style=for-the-badge&color=39FF14&logo=github" />
+  <img src="https://img.shields.io/github/languages/count/dj2amir/LaravelEcomm?label=Repo%20Specs&style=for-the-badge&color=17a2b8" />
+</p>
