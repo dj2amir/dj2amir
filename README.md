@@ -1,16 +1,15 @@
-## Hi there 👋
+# ⚡ Welcome to my Sandbox
 
-<!--
-**dj2amir/dj2amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```🌐 status: Refactoring the world, one architecture at a time.
+⚡ active: Building clean modular systems, scalable APIs, and automated tools.
+🐧 system: Driven by local silicon under Linux environments.
 
-Here are some ideas to get you started:
+🛠️ Current Factory Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🧠 Languages     │  PHP  •  JavaScript  •  Dart  •  SQL  •  Bash
+ 🚀 Ecosystems    │  Laravel  •  Livewire  •  Filament  •  Flutter
+ 🛢️ Storage       │  MySQL  •  SQLite  •  Redis
+ ⚙️ DevOps        │  Linux  •  Git  •  Docker  •  CI/CD Automation
+
+📊 System Metrics
+📡 Active Signals
