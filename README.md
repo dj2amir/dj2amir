@@ -1,7 +1,7 @@
 # ⚡ Welcome to my Sandbox
 
 <p align="center">
-  <kbd><b>⚙️ AMIR // WORKSPACE ⚙️</b></kbd>
+  <kbd><b>⚙️ SSD // WORKSPACE ⚙️</b></kbd>
 </p>
 
 <!-- افکت تایپ‌رایتر زنده با نشانگر چشمک‌زن ماتریکسی -->
